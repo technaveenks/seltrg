@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Amazon" verbose="1" >
+  <test name="HomeTest" >
+    <classes>
+       <class name="com.seltrg.digital.tests.HomeTests" />
+         <class name="com.seltrg.digital.tests.SearchTests" />
+    </classes>
+  </test>
+ 
+  <!-- <test name="SearchTests">
+    <classes>
+      <class name="test.sample.ParameterSample"/>
+      <class name="test.sample.ParameterTest"/>
+    </classes>
+  </test> -->
+</suite>
